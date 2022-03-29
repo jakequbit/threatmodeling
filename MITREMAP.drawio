@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T00:12:25.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.2.4" etag="vCu8B2eYK0j9wZYKXmBq" type="github"><diagram id="5GQwV1TlGVx0TN2jxxt-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-29T00:20:34.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="SZrAzTQojNOxujSFx2-h" version="17.2.4" type="github">
+  <diagram id="5GQwV1TlGVx0TN2jxxt-" name="Page-1">
+    <mxGraphModel dx="2942" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V-QJ61_kdhPqkekhSR81-1" value="Reconnaissance" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-2" value="Resource Development" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-5" value="Initial Access" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-7" value="Execution" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-9" value="Persistence" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-10" value="Privilege Escalation" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1120" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-11" value="Defense Evasion" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1320" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-12" value="Credential Access" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1520" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-13" value="Discovery" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1720" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-14" value="Lateral Movement" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1920" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-15" value="Collection" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2120" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-16" value="Command and Control" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2320" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-17" value="Exfiltration" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2520" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V-QJ61_kdhPqkekhSR81-18" value="Impact" style="swimlane;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2720" width="760" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
